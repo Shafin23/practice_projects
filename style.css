@@ -1,4 +1,27 @@
-*{
+* {
     font-family: 'Open Sans', sans-serif;
-    
+
+}
+
+/* navbar and header item */
+.nav-title {
+    font-weight: 800;
+    font-size: 45px;
+
+}
+.hudai{
+    color: orangered;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin:  50px 200px;
+}
+nav ul{
+    display: flex;
+
+}
+nav ul li{
+    list-style: none;
+    margin-left: 50px;
 }
